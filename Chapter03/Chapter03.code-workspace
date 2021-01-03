@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Ex3-3-FizzBizz"
+		},
+		{
+			"path": "SelectionStatements"
+		}
+	],
+	"settings": {
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dotnettools.csharp"
+		]
+	}
+}
